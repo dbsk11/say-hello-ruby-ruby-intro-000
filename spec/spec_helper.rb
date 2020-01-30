@@ -4,6 +4,6 @@ RSpec.configure do |config|
   # config here
 end
 
-def greeting (name="Ruby programmer")
+def greeting (name = "Ruby programmer")
   puts "Hello, #{name}."
 end
